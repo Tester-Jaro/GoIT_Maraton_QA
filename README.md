@@ -10,7 +10,7 @@
 * [More detailed information about my work](#More-detailed-information-about-my-work)
 * [Thanks](#Thanks)
 
-## General info <br>
+## General info 
 
 Free online marathon Quality Assurance and my development the project. <br>
 It's 4-day course during which you will prove yourself. <br>
@@ -36,7 +36,7 @@ My purpose of the project: <br>
 - [x] rapotr my work in github <br>
 - [x] training with use Git Bash <br>
 
-## Technologies <br>
+## Technologies 
 Used in the project: <br>
 - TastRail <br>
 - Jira <br>
@@ -48,7 +48,7 @@ Used in the project: <br>
 - Screenpresso <br>
 - Telegram <br>
 
-## More detailed information about my work <br>
+## More detailed information about my work 
 
 What did I more:
 - Created workflow in Jira.  Based on mockup: “Bug life cycle” <br>
@@ -64,6 +64,6 @@ What did I more:
 
 - Configured extra fields in Issue: Bug <br>
 
-## Thanks <br>
+## Thanks 
 - GoIT – for create the marathon and support <br>
 - SDA – for indicate the (happy) path of development <br>
