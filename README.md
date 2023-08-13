@@ -68,5 +68,5 @@ What did I more:
 - Configured extra fields in Issue: Bug <br>
 
 ## Thanks 
-- GoIT – for create the marathon and support <br>
-- SDA – for indicate the (happy) path of development <br>
+- [GoIT](https://goit.global/pl/) – for create the marathon and support <br>
+- [SDA](https://sdacademy.pl/) – for indicate the (happy) path of development <br>
