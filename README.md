@@ -16,10 +16,10 @@ Free online marathon Quality Assurance and my development the project. <br>
 It's 4-day course during which you will prove yourself. <br>
 
 A few of the things you can do with GoIT: <br>
-- [] <learn-to-write-Test-Cases> - first day <br>
-- [] <learn to use Test run in Testrail - second day> <br>
-- [] <learn to bug report in Jira - second day> <br>
-- [] <one day in the life of a tester - third day> <br>
+- [ ] learn to write Test Cases - first day <br>
+- [ ] <learn to use Test run in Testrail - second day> <br>
+- [ ] <learn to bug report in Jira - second day> <br>
+- [ ] <one day in the life of a tester - third day> <br>
 
 ![Program of the marathon](https://github.com/eksperymentator/GoIT_Maraton_QA/assets/101925955/e3034b82-ea94-45d6-b8e8-2f058c3e2e8f)
 <br>
