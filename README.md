@@ -24,6 +24,7 @@ A few of the things you can do with GoIT: <br>
 
 
 ![Program of the marathon](https://github.com/eksperymentator/GoIT_Maraton_QA/assets/101925955/e3034b82-ea94-45d6-b8e8-2f058c3e2e8f)
+
 <br>
 
  > Click here to see general information about [Project](https://qa.m.goit.global/pl/) and [more](https://goit.global/pl/newcomers/)... <br>
@@ -54,12 +55,14 @@ What did I more:
 - Created workflow in Jira.  Based on mockup: “Bug life cycle” <br>
 
 ![Workflow_Jira](https://github.com/eksperymentator/GoIT_Maraton_QA/assets/101925955/c213f98d-d00e-46d3-a6db-9511bc8802d1) 
+
 <br>
 
 - TestRail Jira Integration <br>
 - Created team in Jira and added people to project <br>
 
-![Team-Jira](https://github.com/eksperymentator/GoIT_Maraton_QA/assets/101925955/36e2ba9d-a9dc-443d-9537-faf6008e256e)
+![Team-Jira](https://github.com/eksperymentator/GoIT_Maraton_QA/assets/101925955/9de3f998-befd-4bf7-92fa-f25f0eeb24ee)
+
 <br>
 
 - Configured extra fields in Issue: Bug <br>
