@@ -48,6 +48,22 @@ Used in the project: <br>
 - Screenpresso <br>
 - Telegram <br>
 
-## More detailed information about my work
+## More detailed information about my work <br>
 
-## Thanks
+What did I more:
+- Created workflow in Jira.  Based on mockup: “Bug life cycle” <br>
+
+![Workflow_Jira](https://github.com/eksperymentator/GoIT_Maraton_QA/assets/101925955/c213f98d-d00e-46d3-a6db-9511bc8802d1) 
+<br>
+
+- TestRail Jira Integration <br>
+- Created team in Jira and added people to project <br>
+
+![Team-Jira](https://github.com/eksperymentator/GoIT_Maraton_QA/assets/101925955/36e2ba9d-a9dc-443d-9537-faf6008e256e)
+<br>
+
+- Configured extra fields in Issue: Bug <br>
+
+## Thanks <br>
+- GoIT – for create the marathon and support <br>
+- SDA – for indicate the (happy) path of development <br>
