@@ -15,7 +15,7 @@
 Free marathon online Quality Assurance and my development the project.
 It's 4-day course during which you will prove yourself.
 
-A few of the things you can do with GoIT:
+A few of the things you can do with GoIT: <br>
 [] learn to write Test Cases - first day
 [] learn to use Test run in Testrail - second day
 [] learn to bug report in Jira - second day
