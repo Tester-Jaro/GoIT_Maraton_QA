@@ -1,3 +1,4 @@
 # Raport of the cours [GoIT - Quality Assurance](https://qa.m.goit.global/pl/?utm_source=ref&utm_medium=ref&utm_campaign=mar) 
 
-![Alt text](X:\-_Moje_portfoliO_-\Go_IT\_Maraton_QA_\Screeny-do_README\Maraton_1.0.jpg "Optional title")
+
+![GOIT](https://github.com/eksperymentator/GoIT_Maraton_QA/assets/101925955/90e24fbb-dbcc-4ec8-8ba6-a051522d0803 "home")
