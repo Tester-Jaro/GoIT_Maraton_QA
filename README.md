@@ -6,8 +6,8 @@
 
 ## Table of contents
 * [General info](#example)
-* [Technologies](3Technologies)
-* [More detailed information about my work](#More detailed information about my work)
+* [Technologies](#Technologies)
+* [More detailed information about my work](#Moredetailedinformationaboutmywork)
 * [Thanks](#Thanks)
 
 ## General info
