@@ -1,4 +1,4 @@
-# Raport of the cours [GoIT - Quality Assurance](https://qa.m.goit.global/pl/?utm_source=ref&utm_medium=ref&utm_campaign=mar) 
+# Raport of the cours [GoIT - Quality Assurance](https://qa.m.goit.global/pl/) 
 
 
 ![GOIT](https://github.com/eksperymentator/GoIT_Maraton_QA/assets/101925955/90e24fbb-dbcc-4ec8-8ba6-a051522d0803 "home")
@@ -26,6 +26,7 @@ A few of the things you can do with GoIT: <br>
 ![Program of the marathon](https://github.com/eksperymentator/GoIT_Maraton_QA/assets/101925955/e3034b82-ea94-45d6-b8e8-2f058c3e2e8f)
 <br>
 
+Click here to see general information about [Project](https://qa.m.goit.global/pl/) and [more](https://goit.global/pl/newcomers/)...
 
 ## Technologies
 
