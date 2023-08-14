@@ -27,7 +27,7 @@ A few of the things you can do with GoIT: <br>
 
 <br>
 
-> 💡    Click here to see general information about [Project](https://qa.m.goit.global/pl/) and [more](https://goit.global/pl/newcomers/)... <br>
+> 💡   Click here to see general information about [Project](https://qa.m.goit.global/pl/) and [more](https://goit.global/pl/newcomers/)... <br>
 
 My purpose of the project: <br>
 - [x] write TC and Raport of bug for real project <br>
