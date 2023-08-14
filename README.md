@@ -16,10 +16,10 @@ Free online marathon Quality Assurance and my development the project. <br>
 It's 4-day course during which you will prove yourself. <br>
 
 A few of the things you can do with GoIT: 
-- [ ] learn to write Test Cases - first day <br>
-- [ ] learn to use Test run in Testrail - second day <br>
-- [ ] learn to bug report in Jira - second day <br>
-- [ ] one day in the life of a tester - third day <br>
+- [ ] learn to write Test Cases - first day 
+- [ ] learn to use Test run in Testrail - second day 
+- [ ] learn to bug report in Jira - second day 
+- [ ] one day in the life of a tester - third day 
 
 
 
@@ -30,24 +30,24 @@ A few of the things you can do with GoIT:
 >  [Click here](https://qa.m.goit.global/pl/) to see general information about **Project** and [more](https://goit.global/pl/newcomers/)... <br>
 
 My purpose of the project: 
-- [x] write TC and Raport of bug for real project <br>
-- [x] learning in practice <br>
-- [x] consultation of my work with the expert  #feedback <br>
-- [x] simulation of the tester's real work <br>
-- [x] rapotr my work in github <br>
-- [x] training with use Git Bash <br>
+- [x] write TC and Raport of bug for real project 
+- [x] learning in practice 
+- [x] feedback from the trainer 
+- [x] simulation of the tester's real work 
+- [x] rapotr my work in github 
+- [x] training with use Git Bash 
 
 ## Technologies 
 Used in the project: 
-- TastRail:tm: <br>
-- Jira <br>
-- Firefox version <br>
-- Opera version <br>
-- Chrom version <br>
-- Developer Tools <br>
-- Snipping Tool <br>
-- Screenpresso <br>
-- Telegram <br>
+- TastRail:tm: 
+- Jira 
+- Firefox version 
+- Opera version 
+- Chrom version 
+- Developer Tools 
+- Snipping Tool 
+- Screenpresso 
+- Telegram 
 
 ## More detailed information about my work 
 
