@@ -39,15 +39,15 @@ My purpose of the project:
 
 ## Technologies 
 Used in the project: 
-- TastRail:tm: 
-- Jira 
-- Firefox version 
-- Opera version 
-- Chrom version 
+- [TastRail:tm:](https://www.testrail.com/)
+- [Jira](https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=151255109963&campaign=20389338852&creative=666706086655&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p77324634991&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gclid=EAIaIQobChMIysLTi8zcgAMVOoZoCR0X-AuyEAAYASAAEgKo4PD_BwE&gclsrc=aw.ds)
+- [Firefox](https://www.mozilla.org/pl/firefox/new/)
+- [Opera](https://www.opera.com/pl)
+- [Chrom](https://www.google.com/chrome/)
 - Developer Tools 
 - Snipping Tool 
-- Screenpresso 
-- Telegram 
+- [Screenpresso](https://www.screenpresso.com/)
+- [Telegram](https://web.telegram.org/a/)
 
 ## More detailed information about my work 
 
