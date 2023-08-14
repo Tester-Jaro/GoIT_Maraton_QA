@@ -39,7 +39,7 @@ My purpose of the project: <br>
 
 ## Technologies 
 Used in the project: <br>
-- TastRail <br>
+- TastRail:tm: <br>
 - Jira <br>
 - Firefox version <br>
 - Opera version <br>
