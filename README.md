@@ -1,4 +1,4 @@
-# Raport of the cours [GoIT - Quality Assurance](https://qa.m.goit.global/pl/) 
+# Raport of the cours [GoIT marathon - Quality Assurance](https://qa.m.goit.global/pl/) 
 
 
 ![GOIT](https://github.com/eksperymentator/GoIT_Maraton_QA/assets/101925955/90e24fbb-dbcc-4ec8-8ba6-a051522d0803 "home")
@@ -15,7 +15,7 @@
 Free online marathon Quality Assurance and my development the project. <br>
 It's 4-day course during which you will prove yourself. <br>
 
-A few of the things you can do with GoIT: <br>
+A few of the things you can do with GoIT: 
 - [ ] learn to write Test Cases - first day <br>
 - [ ] learn to use Test run in Testrail - second day <br>
 - [ ] learn to bug report in Jira - second day <br>
@@ -27,9 +27,9 @@ A few of the things you can do with GoIT: <br>
 
 <br>
 
-> 💡   Click here to see general information about [Project](https://qa.m.goit.global/pl/) and [more](https://goit.global/pl/newcomers/)... <br>
+>  [Click here](https://qa.m.goit.global/pl/) to see general information about **Project** and [more](https://goit.global/pl/newcomers/)... <br>
 
-My purpose of the project: <br>
+My purpose of the project: 
 - [x] write TC and Raport of bug for real project <br>
 - [x] learning in practice <br>
 - [x] consultation of my work with the expert  #feedback <br>
@@ -38,7 +38,7 @@ My purpose of the project: <br>
 - [x] training with use Git Bash <br>
 
 ## Technologies 
-Used in the project: <br>
+Used in the project: 
 - TastRail:tm: <br>
 - Jira <br>
 - Firefox version <br>
