@@ -72,6 +72,7 @@ What did I more:
 
 + For create the marathon and support <br>
  <br>
+
  [![Logo_sda](https://github.com/eksperymentator/GoIT_Maraton_QA/assets/101925955/91531f14-8741-4ebc-b2d4-d374b57b3d28)](https://sdacademy.pl/) <br>
 
 + For indicate the (happy) path of development <br>
