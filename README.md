@@ -68,14 +68,14 @@ What did I more:
 - Configured extra fields in Issue: Bug <br>
 
 ## Thanks 
- [![Logo_GOIT](https://github.com/eksperymentator/GoIT_Maraton_QA/assets/101925955/45c86436-01c1-49bb-b037-95534adde221)](https://goit.global/pl/) <br>
+ [![Logo_GOIT](https://github.com/eksperymentator/GoIT_Maraton_QA/assets/101925955/45c86436-01c1-49bb-b037-95534adde221)](https://goit.global/pl) <br>
 
-+ For create the marathon and support <br>
++ For created the marathon and supported <br>
  <br>
 
- [![Logo_sda](https://github.com/eksperymentator/GoIT_Maraton_QA/assets/101925955/91531f14-8741-4ebc-b2d4-d374b57b3d28)](https://sdacademy.pl/) <br>
+ [![Logo_sda](https://github.com/eksperymentator/GoIT_Maraton_QA/assets/101925955/91531f14-8741-4ebc-b2d4-d374b57b3d28)](https://sdacademy.pl) <br>
 
-+ For indicate the (happy) path of development <br>
++ For indicated the (happy) path of development <br>
 
 
 
