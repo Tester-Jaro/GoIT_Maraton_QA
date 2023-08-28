@@ -68,9 +68,11 @@ What did I more:
 - Configured extra fields in Issue: Bug <br>
 
 ## Thanks 
- [![Logo_GOIT](https://github.com/eksperymentator/GoIT_Maraton_QA/assets/101925955/45c86436-01c1-49bb-b037-95534adde221)](https://goit.global/pl/) <br> – for create the marathon and support <br>
+ [![Logo_GOIT](https://github.com/eksperymentator/GoIT_Maraton_QA/assets/101925955/45c86436-01c1-49bb-b037-95534adde221)](https://goit.global/pl/)  
+– For create the marathon and support <br>
  <br>
- [![Logo_sda](https://github.com/eksperymentator/GoIT_Maraton_QA/assets/101925955/91531f14-8741-4ebc-b2d4-d374b57b3d28)](https://sdacademy.pl/) <br> – for indicate the (happy) path of development <br>
+ [![Logo_sda](https://github.com/eksperymentator/GoIT_Maraton_QA/assets/101925955/91531f14-8741-4ebc-b2d4-d374b57b3d28)](https://sdacademy.pl/) 
+– For indicate the (happy) path of development <br>
 
 
 
