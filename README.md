@@ -69,4 +69,4 @@ What did I more:
 
 ## Thanks 
 - [GoIT](https://goit.global/pl/) – for create the marathon and support <br>
-- [![<SDA>](<img src="https://shop.sdacademy.pl/wp-content/uploads/2021/12/Sda_logo_new.png">)](https://sdacademy.pl/) – for indicate the (happy) path of development <br>
+- [SDA](https://sdacademy.pl/) – for indicate the (happy) path of development <br>
